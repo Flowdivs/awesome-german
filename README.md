@@ -4,6 +4,23 @@
 
 German is one of the most widely spoken languages in Europe and offers incredible opportunities for career advancement, cultural exploration, and academic pursuits. Whether you're learning German for business, travel, immigration, or personal enrichment, this comprehensive guide provides you with the best online resources to support your language learning journey.
 
+<!-- BEGIN gh-mutual-linking -->
+
+### Related projects
+
+- [**caddy-midi**](https://github.com/didvc/caddy-midi) — Caddy HTTP handler that serves MIDI files as synthesized audio. Pure Go, no cgo.
+- [**PingTracer-web**](https://github.com/nim-apps/PingTracer-web) — Ping monitor in Nim.
+- [**sdg**](https://github.com/SDGScript/sdg) — SDGScript | the sustainable programming language. A lighthearted but real tree-walking interpreter in Go.
+- [**simple-desktop-replay**](https://github.com/didvc/simple-desktop-replay) — Always-on rolling replay buffer for the Windows desktop: a low-overhead RAM DVR that keeps the last few minutes of screen so you can save the…
+- [**oss**](https://github.com/simple-netmon/oss) — Network monitor for Windows, local, privacy-respecting, per-app (ETW-first, no Npcap)
+- [**astro-html-editor**](https://github.com/didvc/astro-html-editor) — Self-hosted HTML editor with live preview. Astro SSR + plain JavaScript, server-side file persistence.
+- [**culture**](https://github.com/awesome-german/culture) — German cultural insights, traditions, and lifestyle guides for learners and expatriates.
+- [**web-resources**](https://github.com/awesome-german/web-resources)
+- [**news**](https://github.com/awesome-german/news) — German news outlets, RSS feeds, and current-affairs reading practice tools
+- [**living**](https://github.com/awesome-germany/living)
+- [**html-bio-generator**](https://github.com/didvc/html-bio-generator) — A modern, intuitive tool for creating beautiful HTML bio pages with ease. Built with Next.js, TypeScript, and Tailwind CSS. Perfect for…
+<!-- END gh-mutual-linking -->
+
 ## Contents
 
 - [Official Resources](#official-resources)
